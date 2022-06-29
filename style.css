@@ -1,6 +1,10 @@
 body {
     background: #CCCCCC;
 }
+
+.imagemzimer{
+    width: 50%;
+}
 h1 {
     text-align: center;
 }
