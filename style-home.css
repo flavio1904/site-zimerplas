@@ -46,7 +46,7 @@ nav a:active {
     color: #088c19;
 }
 
-h1 {
+h2 {
     text-align: center;
 }
 p {
@@ -84,5 +84,24 @@ footer {
     text-align: center;
     font-size: 13px;
     padding: 15px 25px;
+
+}
+
+@media screen and (max-width:480px) {
+    .caixa, .principal, .mapa {
+        width: auto;
+    }
+    h1 {
+        text-align: center;
+
+    }
+    
+    nav {
+        position: static;
+        width: auto;
+        
+        
+                
+    }
 
 }
