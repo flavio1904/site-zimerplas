@@ -55,6 +55,10 @@ nav a {
     font-size: 22px;
     text-decoration: none;
 }
+nav a:hover {
+    color: #CCCCCC;
+    
+}
 
 footer {
     background-color: #0B8FD0;
